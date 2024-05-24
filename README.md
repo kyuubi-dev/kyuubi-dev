@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hello, I'm Kyuubi 🙈 I'm a full stack Python developer. 🐍
 
-<!--
-**kyuubi-dev/kyuubi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Fullstack Python developer with extensive experience in building web applications and APIs. I'm inspired by the opportunity to create innovative and useful products using cutting-edge technologies.
 
-Here are some ideas to get you started:
+## Skills
+### Backend Frameworks:
+- Django
+- Flask
+- FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Frameworks:
+- React
+- Vue.js
+- Angular
+- Svelte
+
+### Databases:
+- MySQL
+- SQLite
+- MongoDB
+
+### Development Tools:
+- Git
+- Docker
+- Nginx
+
+## Contact
+- Email: artem.panasiuk.m@gmail.com
+- Telegram - https://t.me/kyuubi_0_0
